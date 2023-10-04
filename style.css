@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vw;
+    width: 100vw;
+    background-color: rgb(9, 0, 10);
+}
+main h1 {
+    color: white;
+    text-align: center;
+    
+}
+main p{
+    color: white;
+}
+
+main h4 {
+    color: white;
+}
+
+nav{
+    padding-left: 50%;
+    background-color: aliceblue;
+    text-align: left;
+}
